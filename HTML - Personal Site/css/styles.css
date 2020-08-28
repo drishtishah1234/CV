@@ -1,0 +1,27 @@
+body {
+  /* background-image: linear-gradient(to bottom, #fd7fdc, #fe8ede, #ff9ce1, #ffaae3, #ffb7e6); */
+  background-image: url("https://www.siarza.com/wp-content/uploads/2017/12/webplunder-background-image-technology-online-website-solutions.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: #00334e;
+}
+
+h2{
+  color: #00334e;
+}
+
+h3{
+  color: #00334e;
+}
